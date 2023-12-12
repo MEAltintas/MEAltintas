@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Münüre Ezgi ALTINTAŞ</h1>
 <h3 align="center">A passionate software engineer from Turkey</h3>
 
-- 🔭 I’m currently working on **html,css,javascript,bootstarp,java,python,yapay zeka,siber güvenlik**
+- 🔭 I’m currently working on **html,css,javascript,bootstarp,java android,java,python,yapay zeka,siber güvenlik**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
