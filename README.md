@@ -1,6 +1,7 @@
+
+<img src="https://cdn.pixabay.com/photo/2021/07/31/08/22/network-6511448_1280.jpg" alt="Yapay Zeka"> <br> 
 <h1 align="center">Hello, I'm Münüre Ezgi ALTINTAŞ</h1>
-<img src="https://cdn.pixabay.com/photo/2021/07/31/08/22/network-6511448_1280.jpg" alt="Yapay Zeka">
-<h3 align="center">I'm a software engineer in Turkey.</h3>
+<h3 align="center">I'm a software engineer in Turkey.</h3> <br> 
 
 - 📚 I’m currently learning <b>Software Developer</b> <br> 
 - 📧 How to reach me: <i>mezgialtintas@gmail.com</i>
