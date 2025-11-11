@@ -1,64 +1,71 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Parisienne&size=48&duration=3000&pause=1200&color=FF80AA&center=true&vCenter=true&width=600&height=80&lines=Hello+I'm+Münüre+Ezgi+ALTINTAŞ;Fullstack+Software+Developer;UI%2FUX+Oriented+Developer;Welcome+to+my+profile+🌸" />
-</h1>
 
-<p align="center">
-  <img src="https://github.com/ashleymcnamara/gophers/blob/master/Female_Gopher_Pink.png" width="160" />
+
+<img src="https://cdn.pixabay.com/photo/2021/07/31/08/22/network-6511448_1280.jpg" alt="Yapay Zeka"> <br> 
+<h1 align="center">Hello, I'm Münüre Ezgi ALTINTAŞ</h1>
+<h3 align="center">I'm a software engineer in Turkey.</h3> <br> 
+
+- 📚 I’m currently learning <b>Software Developer</b> <br> 
+- 📧 How to reach me: <i>mezgialtintas@gmail.com</i>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.mezgialtintas.com.tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="mezgialtintas.com.tr" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/m%C3%BCn%C3%BCre-ezgi-altinta%C5%9F-030260228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mezgialtintas/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mnreezgialtinta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mezgialtintas" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <div>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+</div>
 
-### 🌸 About Me
+<br> 
 
-I'm a **Full-Stack Software Developer** with a love for **gentle UI, meaningful user experience**, and creating ✨ elegant + functional ✨ web applications.
+<div> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</div>
 
-I enjoy building:
-- 🌷 Clean and aesthetic **interfaces**
-- 🧩 Thoughtfully structured **backend logic**
-- ☁️ Scalable and well-designed **project architectures**
+<br> 
 
-I believe good software feels *calm*, *clear* and *human-friendly* 💗
+<div> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstarp" width="40" height="40"/> </a>   
+</div>
 
----
+<br> 
 
-### 🛠️ Tech & Tools I Work With
+<div> 
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+</div>
 
-#### Frontend & UI/UX  
-`HTML` • `CSS / SCSS` • `JavaScript` • `TypeScript`  
-`Angular / React` • `TailwindCSS` • `Figma`
+<br> 
 
-#### Backend & System  
-`Java` • `Spring Boot` • `Node.js`  
-`REST APIs` • `Microservices` • `Docker`
+<div> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+</div>
 
-#### Databases  
-`PostgreSQL` • `MySQL` • `MongoDB`
+<br> 
 
-#### Tools  
-`Git` • `GitHub` • `Linux` • `VS Code`
+<div> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+</div>
 
----
+<br> 
 
-### 🌷 Soft Vibes
+<div> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</div>
 
-| I Love | Meaning to Me |
-|------|----------------|
-| 🌸 UI / UX | Design that *feels like breathing* |
-| 🎀 Clean Code | Calm, readable, human-centered |
-| ☕ Coffee + Coding | Flow mode activated |
-| 🎧 Lo-fi Music | Soft productivity energy |
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/"><img height="32" src="https://img.shields.io/badge/LinkedIn-FF9EC4?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:"><img height="32" src="https://img.shields.io/badge/Gmail-F7D6E0?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6D9&height=120&section=footer" />
-</p>
+</p
