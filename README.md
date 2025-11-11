@@ -1,95 +1,71 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Quicksand&size=32&duration=3000&pause=1000&color=F7C5D8&center=true&vCenter=true&width=550&lines=Hello+%F0%9F%91%8B+I'm+Münüre+Ezgi+ALTINTAŞ;Software+Engineer;Always+Learning+and+Growing" />
-</h1>
 
-<div align="center">
-  
-### 💗 Software Engineer • 🌸 Pastel Minded Creator • 🌱 Continuous Learner  
 
-<img src="https://i.pinimg.com/originals/17/c3/c3/17c3c37f496b6db7f1f1e41e98ea87f5.gif" width="450" style="border-radius:12px"/>
+<img src="https://cdn.pixabay.com/photo/2021/07/31/08/22/network-6511448_1280.jpg" alt="Yapay Zeka"> <br> 
+<h1 align="center">Hello, I'm Münüre Ezgi ALTINTAŞ</h1>
+<h3 align="center">I'm a software engineer in Turkey.</h3> <br> 
 
+- 📚 I’m currently learning <b>Software Developer</b> <br> 
+- 📧 How to reach me: <i>mezgialtintas@gmail.com</i>
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.mezgialtintas.com.tr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="mezgialtintas.com.tr" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/m%C3%BCn%C3%BCre-ezgi-altinta%C5%9F-030260228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mezgialtintas/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mnreezgialtinta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mezgialtintas" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <div>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </div>
 
-<br/>
+<br> 
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=mnreezgi&style=for-the-badge&color=F7C5D8&label=Profile+Views)
-![](https://img.shields.io/badge/Focus-Learning%20and%20Building-C9E4FF?style=for-the-badge)
-![](https://img.shields.io/badge/Status-Active-F7C5D8?style=for-the-badge)
-![](https://img.shields.io/badge/Location-Turkey-E7D4FF?style=for-the-badge)
-
+<div> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </div>
 
----
+<br> 
 
-## 🌼 About Me
-
-Hi! I'm **Münüre Ezgi**, a developer who loves:
-
-- 💖 Turning ideas into functional applications  
-- ☕ Writing clean, readable and sustainable code  
-- 🌱 Learning every day and improving myself  
-- 💬 Sharing knowledge and collaborating  
-
-**Currently exploring deeply:**  
-> Software Development • OOP • Web Technologies • Databases
-
-📧 **Contact:** `mezgialtintas@gmail.com`  
-🌐 **Website:** `mezgialtintas.com.tr`
-
----
-
-<img src="https://i.pinimg.com/originals/8a/45/14/8a4514bbf324fe97e1eaa1d5d461bc5a.gif" width="100%">
-
-## 🧁 Tech Stack (Soft Pastel Style)
-
-<div align="center">
-
-### ✨ Languages
-![Java](https://img.shields.io/badge/Java-F7C5D8?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-C9E4FF?style=for-the-badge&logo=c&logoColor=ffffff)
-![C#](https://img.shields.io/badge/C%23-E7D4FF?style=for-the-badge&logo=c-sharp&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-F7C5D8?style=for-the-badge&logo=python&logoColor=ffffff)
-
-### 🎨 Frontend & Web
-![HTML5](https://img.shields.io/badge/HTML5-F7C5D8?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-C9E4FF?style=for-the-badge&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-E7D4FF?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/PHP-F7C5D8?style=for-the-badge&logo=php&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-C9E4FF?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
-
-### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-E7D4FF?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-F7C5D8?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![SQL Server](https://img.shields.io/badge/MSSQL-C9E4FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff)
-
-### 🧠 Data & CV
-![Pandas](https://img.shields.io/badge/Pandas-F7C5D8?style=for-the-badge&logo=pandas&logoColor=ffffff)
-![OpenCV](https://img.shields.io/badge/OpenCV-E7D4FF?style=for-the-badge&logo=opencv&logoColor=ffffff)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F7C5D8?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-C9E4FF?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-E7D4FF?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F7C5D8?style=for-the-badge&logo=figma&logoColor=white)
-
+<div> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstarp" width="40" height="40"/> </a>   
 </div>
 
----
+<br> 
 
-## 🌸 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C9E4FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m%C3%BCn%C3%BCre-ezgi-altinta%C5%9F-030260228/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-E7D4FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mnreezgialtinta)
-[![Website](https://img.shields.io/badge/Website-F7C5D8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mezgialtintas.com.tr)
-
+<div> 
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 </div>
 
-<br/>
+<br> 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C5D8&height=120&section=footer" width="100%"/>
+<div> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
 </div>
+
+<br> 
+
+<div> 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+</div>
+
+<br> 
+
+<div> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+</div>
+
+</p
