@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="[https://www.mezgialtintas.com.tr](https://mezgialtintas.com.tr/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="mezgialtintas.com.tr" height="30" width="40" /></a>  
+<a href="https://mezgialtintas.com.tr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="mezgialtintas.com.tr" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/m%C3%BCn%C3%BCre-ezgi-altinta%C5%9F-030260228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mezgialtintas/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/mnreezgialtinta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mezgialtintas" height="30" width="40" /></a>
 </p>
