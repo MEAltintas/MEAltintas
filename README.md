@@ -7,9 +7,9 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Software+Developer+in+Progress+%F0%9F%9A%80;Building+Amazing+Projects+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 </div>
-
 <br>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
 ### 👩‍💻 About Me
