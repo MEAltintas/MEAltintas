@@ -88,20 +88,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
 
-<div align="center">
-  
-## 📊 GitHub Statistics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mezgialtintas&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mezgialtintas&theme=radical&hide_border=true" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezgialtintas&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
-</div>
-
----
 
 <div align="center">
 
@@ -114,7 +101,7 @@ me.say_hi()
 
 </div>
 
----
+
 
 <div align="center">
   
