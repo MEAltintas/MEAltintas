@@ -10,7 +10,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ### 👩‍💻 About Me
 
@@ -88,7 +88,30 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
 
+<div align="center">
+  
+## 📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mezgialtintas&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mezgialtintas&theme=radical&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezgialtintas&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+<div align="center">
+  
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mezgialtintas&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 <div align="center">
 
@@ -101,7 +124,7 @@ me.say_hi()
 
 </div>
 
-
+---
 
 <div align="center">
   
@@ -109,6 +132,14 @@ me.say_hi()
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
+---
+
+<div align="center">
+  
+### 👀 Profile Views
+  
+![](https://komarev.com/ghpvc/?username=mezgialtintas&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
