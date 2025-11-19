@@ -9,9 +9,10 @@
 </div>
 <br>
 
-
+<div align="center">
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/020/962/989/small_2x/software-engineer-graphic-clipart-design-free-png.png">
-
+</div>
+<br>
 
 ### 👩‍💻 About Me
 
