@@ -10,7 +10,7 @@
 <br>
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/coding-girl.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 
 ### 👩‍💻 About Me
@@ -35,6 +35,7 @@ me.say_hi()
 <br>
 
 ---
+<br>
 
 <div align="center">
   
