@@ -1,10 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Münüre%20Ezgi%20ALTINTAŞ&fontSize=42&fontAlignY=32&desc=Software%20Engineer%20%7C%20Turkey&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 </div>
+
 <div align="center">
-Show Image
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6E57F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Software+Developer+in+Progress+%F0%9F%9A%80;Building+Amazing+Projects+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
+
 </div>
 <br>
+
+
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/coding-girl.gif">
 
 
