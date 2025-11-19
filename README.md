@@ -104,16 +104,6 @@ me.say_hi()
 ---
 
 <div align="center">
-  
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mezgialtintas&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
 
 ## 🤝 Connect With Me
 
@@ -132,14 +122,6 @@ me.say_hi()
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
-
-<div align="center">
-  
-### 👀 Profile Views
-  
-![](https://komarev.com/ghpvc/?username=mezgialtintas&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
